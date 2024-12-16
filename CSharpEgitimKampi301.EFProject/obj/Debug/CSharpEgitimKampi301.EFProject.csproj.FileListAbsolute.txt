@@ -1,0 +1,17 @@
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe.config
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.pdb
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.dll
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.xml
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.AssemblyReference.cache
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Form1.resources
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Properties.Resources.resources
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.GenerateResource.cache
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CoreCompileInputs.cache
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEg.14093BF7.Up2Date
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocation.resources
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistics.resources

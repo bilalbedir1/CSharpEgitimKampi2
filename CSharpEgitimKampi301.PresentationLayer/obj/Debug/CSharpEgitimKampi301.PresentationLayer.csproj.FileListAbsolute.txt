@@ -1,0 +1,9 @@
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe.config
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.exe
+D:\bilal\Documents\Kurslar\C#\Murat_Yücedağ_Youtube\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.pdb
